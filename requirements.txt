@@ -4,3 +4,7 @@ matplotlib
 scikit-learn
 pandas
 mne
+keras-tuner
+joblib 
+h5py
+tensorflow
